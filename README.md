@@ -1,5 +1,5 @@
 # 💫 About Me:
-Bio = {<br>    "• ❔ Name": "Trent Shelton",<br>    "• 📰 Note": "Your local programmer (Google plz hire me)",<br>    "• 🔭 I’m currently working on": "My programing skills",<br>    "• 🌱 I’m currently learning": "More python"<br>}<br><br>print(Bio)
+Bio = {<br>    "• ❔ Name": "Trent Shelton",<br>    "• 📰 Note": "Your local programmer (Microsoft plz hire me)",<br>    "• 🔭 I’m currently working on": "My programing skills",<br>    "• 🌱 I’m currently learning": "More python"<br>}<br><br>print(Bio)
 
 
 # 💻 Tech Stack:
